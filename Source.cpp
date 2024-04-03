@@ -9,5 +9,4 @@ int main()
 	cout << "¬ведите два числа через пробел: ";
 	cin >> a >> b;
 	a < b ? cout << b : cout << a;
-	return 0;
 }
